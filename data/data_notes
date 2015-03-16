@@ -1,0 +1,7 @@
+Notes:
+
+1) Changed header names in both budget and enrollment files.
+2) Budget total for Maury is implausible (but line items OK). Changed budget total for Maury to reflect dcpsdatacenter value.
+3) Code for Langley ES in budget does not match enrollment file. Changed enrollment code to match budget.
+4) Code for Capitol Hill Montessori in budget does not match enrollment file. Changed enrollment code to match budget.
+
