@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <title>DCPS Budgets</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,300italic,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+
+<div id="main">
+    <header>
+        <h1>DCPS: Schools and Dollars</h1>
+        <h2 class="tagline">Comparing DCPS allocated resources across schools.</h2>
+    </header>
+
+    <div id="controls">
+        <h3 class="tagline">Which Schools?</h3>
+        <form id="filters">
+            <input type="radio" name="fortyForty" id="school-all" checked="checked" />
+            <label for="school-all">All Schools</label>
+            <input type="radio" name="fortyForty" id="4040-schools" value="TRUE" />
+            <label for="4040-schools">40 Lowest-Performing Schools</label>
+            <br />
+
+            <input type="radio" name="ward" id="ward-all" checked="checked" />
+            <label for="ward-all">All Wards</label>
+            <input type="radio" name="ward" id="ward-1" value="1" />
+            <label for="ward-1">1</label>
+            <input type="radio" name="ward" id="ward-2" value="2" />
+            <label for="ward-2">2</label>
+            <input type="radio" name="ward" id="ward-3" value="3" />
+            <label for="ward-3">3</label>
+            <input type="radio" name="ward" id="ward-4" value="4" />
+            <label for="ward-4">4</label>
+            <input type="radio" name="ward" id="ward-5" value="5" />
+            <label for="ward-5">5</label>
+            <input type="radio" name="ward" id="ward-6" value="6" />
+            <label for="ward-6">6</label>
+            <input type="radio" name="ward" id="ward-7" value="7" />
+            <label for="ward-7">7</label>
+            <input type="radio" name="ward" id="ward-8" value="8" />
+            <label for="ward-8">8</label>
+            <br />
+
+            <input type="radio" name="level" id="level-all" checked="checked" />
+            <label for="level-all">All Levels</label>
+            <input type="radio" name="level" id="level-es" value="es" />
+            <label for="level-es">Elementary</label>
+            <input type="radio" name="level" id="level-ms" value="ms" />
+            <label for="level-ms">Middle</label>
+            <input type="radio" name="level" id="level-hs" value="hs" />
+            <label for="level-hs">High</label>
+            <input type="radio" name="level" id="level-campus" value="campus" />
+            <label for="level-campus">Education Campus</label>
+        </form>
+        <h3 class="tagline">Which Dollars?</h3>        
+        <form id="sorters">
+            <input type="radio" name="bcat" id="bcat-all" checked="checked" />
+            <label for="bcat-all">Total</label>
+            <input type="radio" name="bcat" id="bcat-formula" value="0" />
+            <label for="bcat-formula">Funding Formula</label>
+            <input type="radio" name="bcat" id="bcat-sped" value="1" />
+            <label for="bcat-sped">SPED</label>
+            <input type="radio" name="bcat" id="bcat-ell" value="2" />
+            <label for="bcat-ell">ELL</label>
+            <input type="radio" name="bcat" id="bcat-fy15pri" value="3" />
+            <label for="bcat-fy15pri">FY15 Priorities</label>
+            <input type="radio" name="bcat" id="bcat-litsup" value="4" />
+            <label for="bcat-litsup">Literacy Support</label>
+            <input type="radio" name="bcat" id="bcat-asp" value="5" />
+            <label for="bcat-asp">ASP</label>
+            <input type="radio" name="bcat" id="bcat-special" value="6" />
+            <label for="bcat-special">Specialty</label>
+            <input type="radio" name="bcat" id="bcat-fundmin" value="7" />
+            <label for="bcat-fundmin">Funding Minimum</label>
+            <input type="radio" name="bcat" id="bcat-fed" value="8" />
+            <label for="bcat-fed">Federal Title</label>
+        </form>
+    </div>
+    <div id="exhibit"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash-compat/3.5.0/lodash.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="scripts/main.js"></script>
+</body>
+</html>
+

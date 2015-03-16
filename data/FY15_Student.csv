@@ -1,0 +1,111 @@
+CODE,SCHOOL,FISCALYEAR,SCHOOLTYPE,WARD,ENROLL_ECE,ENROLL_ELL,ENROLL_SPED,ENROLL_TOTALPROJ
+202,Aiton,10/1/2015,Elementary,7,82,2,22, 245 
+203,Amidon-Bowen,10/1/2015,Elementary,6,65,11,57, 372 
+450,Anacostia,10/1/2015,High,8,0,3,227, 774 
+452,Ballou,10/1/2015,High,8,0,2,208, 655 
+462,Ballou STAY,10/1/2015,STAY,8,0,0,38, 485 
+204,Bancroft,10/1/2015,Elementary,1,110,288,66, 504 
+205,Barnard,10/1/2015,Elementary,4,144,204,87, 605 
+206,Beers,10/1/2015,Elementary,7,99,3,104, 435 
+402,Banneker,10/1/2015,High,1,0,5,6, 445 
+212,Brent,10/1/2015,Elementary,6,68,6,32, 363 
+213,Brightwood,10/1/2015,Education Campus,4,87,401,68, 635 
+346,Brookland,10/1/2015,Education Campus,5,35,8,28, 232 
+404,Browne,10/1/2015,Education Campus,5,72,16,59, 348 
+296,Bruce-Monroe,10/1/2015,Elementary,1,101,313,52, 470 
+220,Burroughs,10/1/2015,Education Campus,5,66,18,70, 272 
+221,Burrville,10/1/2015,Elementary,7,97,1,28, 345 
+247,CW Harris,10/1/2015,Elementary,7,55,2,75, 279 
+629,Capitol Hill Montessori,10/1/2015,Education Campus,6,129,4,13, 330 
+454,Cardozo,10/1/2015,Education Campus,1,0,245,215, 717 
+947,CHOICE,10/1/2015,Alternative School,5,0,2,6, 27 
+224,Cleveland,10/1/2015,Elementary,1,80,53,29, 311 
+442,Columbia Heights Education Campus,10/1/2015,Education Campus,1,0,367,131," 1,275 "
+455,Coolidge,10/1/2015,High,4,0,46,98, 410 
+405,Deal,10/1/2015,Middle,3,0,47,131," 1,310 "
+231,Drew,10/1/2015,Elementary,7,51,0,23, 169 
+467,Dunbar,10/1/2015,High,5,0,3,157, 625 
+457,Eastern,10/1/2015,High,6,0,8,274," 1,030 "
+232,Eaton,10/1/2015,Elementary,3,36,48,39, 477 
+407,Eliot-Hine,10/1/2015,Middle,6,0,1,59, 275 
+471,Ellington School of the Arts,10/1/2015,High,2,0,8,25, 515 
+238,Garfield,10/1/2015,Elementary,8,50,0,37, 276 
+239,Garrison,10/1/2015,Elementary,2,85,32,74, 289 
+227,HD Cooke,10/1/2015,Elementary,1,90,180,37, 413 
+246,Hardy,10/1/2015,Middle,2,0,19,52, 400 
+413,Hart,10/1/2015,Middle,8,0,0,159, 574 
+258,Hearst,10/1/2015,Elementary,3,43,23,30, 293 
+249,Hendley,10/1/2015,Elementary,8,70,0,75, 533 
+251,Houston,10/1/2015,Elementary,7,53,2,44, 282 
+252,Hyde-Addison,10/1/2015,Elementary,2,20,24,29, 341 
+950,Incarcerated Youth Program,10/1/2015,Alternative School,7,0,0,15, 24 
+339,JO Wilson,10/1/2015,Elementary,6,116,6,63, 462 
+254,Janney,10/1/2015,Elementary,3,80,30,41, 672 
+415,Jefferson,10/1/2015,Middle,6,0,2,78, 307 
+416,Johnson,10/1/2015,Middle,8,0,3,70, 283 
+421,Kelly Miller,10/1/2015,Middle,7,0,5,110, 570 
+257,Ketcham,10/1/2015,Elementary,8,70,0,32, 318 
+272,Key,10/1/2015,Elementary,3,40,37,26, 391 
+259,Kimball,10/1/2015,Elementary,7,70,0,35, 345 
+344,King,10/1/2015,Elementary,8,90,0,38, 412 
+417,Kramer,10/1/2015,Middle,8,0,0,86, 371 
+261,Lafayette,10/1/2015,Elementary,4,80,18,37, 700 
+262,Langdon,10/1/2015,Education Campus,5,61,19,40, 338 
+235,Langley,10/1/2015,Elementary,5,70,9,76, 291 
+264,LaSalle-Backus,10/1/2015,Education Campus,4,51,98,63, 357 
+266,Leckie,10/1/2015,Elementary,8,105,1,40, 402 
+271,Ludlow-Taylor,10/1/2015,Elementary,6,106,5,58, 336 
+884,Luke Moore,10/1/2015,High,5,0,2,30, 382 
+308,Malcolm X,10/1/2015,Elementary,8,66,0,28, 218 
+265,Mamie D Lee,10/1/2015,Special Education Center,5,0,2,63, 62 
+273,Mann,10/1/2015,Elementary,3,40,35,15, 301 
+284,Marie Reed,10/1/2015,Elementary,1,96,233,34, 390 
+274,Maury,10/1/2015,Elementary,6,86,2,25, 362 
+458,McKinley,10/1/2015,Education Campus,5,0,11,64, 910 
+280,Miner,10/1/2015,Elementary,6,105,6,58, 408 
+285,Moten,10/1/2015,Elementary,8,87,2,43, 400 
+287,Murch,10/1/2015,Elementary,3,60,73,31, 680 
+288,Nalle,10/1/2015,Elementary,7,107,9,40, 380 
+290,Noyes,10/1/2015,Education Campus,5,40,16,55, 307 
+291,Orr,10/1/2015,Elementary,8,106,0,48, 372 
+292,Oyster-Adams,10/1/2015,Education Campus,3,46,108,78, 657 
+294,Patterson,10/1/2015,Elementary,8,79,1,83, 374 
+295,Payne,10/1/2015,Elementary,6,79,4,42, 279 
+301,Peabody,10/1/2015,Elementary,6,141,5,10, 229 
+478,Phelps,10/1/2015,High,5,0,15,40, 354 
+299,Plummer,10/1/2015,Elementary,7,76,22,85, 434 
+300,Powell,10/1/2015,Elementary,4,88,251,49, 435 
+316,Randle Highlands,10/1/2015,Elementary,7,83,2,49, 328 
+302,Raymond,10/1/2015,Education Campus,4,105,232,88, 553 
+459,Roosevelt  ,10/1/2015,High,4,0,107,113, 432 
+456,Roosevelt STAY,10/1/2015,STAY,4,0,39,38, 655 
+305,Ross,10/1/2015,Elementary,2,35,34,8, 168 
+307,Savoy,10/1/2015,Elementary,8,70,6,40, 419 
+466,School Without Walls,10/1/2015,Education Campus,2,64,25,47, 909 
+943,School-Within-School,10/1/2015,Elementary,6,72,0,34, 243 
+309,Seaton,10/1/2015,Elementary,6,97,126,37, 278 
+312,Sharpe,10/1/2015,Special Education Center,4,0,5,67, 67 
+313,Shepherd,10/1/2015,Elementary,4,54,5,27, 321 
+315,Simon,10/1/2015,Elementary,8,51,2,46, 310 
+322,Smothers,10/1/2015,Elementary,7,73,3,44, 304 
+427,Sousa,10/1/2015,Middle,7,0,0,59, 286 
+319,Stanton,10/1/2015,Elementary,8,90,1,80, 607 
+321,Stoddert,10/1/2015,Elementary,3,40,73,23, 429 
+428,Stuart-Hobson,10/1/2015,Middle,6,0,3,52, 424 
+324,Takoma,10/1/2015,Education Campus,4,73,115,81, 458 
+325,Thomas,10/1/2015,Elementary,7,84,1,82, 435 
+326,Thomson,10/1/2015,Elementary,2,67,189,44, 280 
+327,Truesdell,10/1/2015,Education Campus,4,82,256,84, 484 
+328,Tubman,10/1/2015,Elementary,1,69,179,71, 527 
+329,Turner,10/1/2015,Elementary,8,87,0,39, 426 
+330,Tyler,10/1/2015,Elementary,6,144,6,71, 549 
+332,Walker-Jones,10/1/2015,Education Campus,6,86,12,110, 461 
+474,Washington Metropolitan,10/1/2015,High,1,0,4,46, 304 
+333,Watkins,10/1/2015,Elementary,6,0,3,39, 523 
+336,West,10/1/2015,Education Campus,4,70,14,29, 273 
+335,Wheatley,10/1/2015,Education Campus,5,68,3,75, 435 
+338,Whittier,10/1/2015,Education Campus,4,51,39,83, 348 
+463,Wilson,10/1/2015,High,3,0,80,184," 1,708 "
+464,Woodson,10/1/2015,High,7,0,7,213, 729 
+861,Youth Services Center,10/1/2015,Alternative School,5,0,1,32, 70 
+,empty,10/1/2015,DCPS,0,5744,4997,6928,47592
